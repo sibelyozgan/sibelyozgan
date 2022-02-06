@@ -1,5 +1,5 @@
 
-<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/sib.gif">
+<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/gifsib3.gif">
 
 <h1 align="center">Hi 👋, I’m Sibel</h1>
 <h3 align="center">A passionate data scientist and computational designer</h3>
