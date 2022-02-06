@@ -34,7 +34,7 @@ Grasshopper, Revit
 
 Design Research. 
 
-- Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:
+** Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo: **
 <img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="600" height="400">
 
 <!--
