@@ -11,9 +11,6 @@
 - Reach me **sozgan@gmail.com**
 - Know about my experiences: [LinkedIn](https://www.linkedin.com/in/sibelyozgan/)
 - Interested in my design research / publications / works : visit my [personal website](https://sibelozgan.com)
-- Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:
-
-<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg">
 
 ### Skills
 
@@ -37,6 +34,8 @@ Grasshopper, Revit
 
 Design Research. 
 
+- Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:
+<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="100" height="100">
 
 <!--
 **sibelyozgan/sibelyozgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
