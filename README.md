@@ -1,8 +1,8 @@
 
 <img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/gifsib3.gif">
 
-<h1 align="center">Hi 👋, I’m Sibel</h1>
-<h3 align="center">A passionate data scientist and computational designer</h3>
+## Hi 👋, I’m Sibel
+### A passionate data scientist and computational designer</h3>
 
 - I'm currently working on the development of a predictive model for Social Media Engagement leveraging Natural Language Processing(NLP) techniques for Feature Engineering
 - I have almost 10 years experience in academic research.
