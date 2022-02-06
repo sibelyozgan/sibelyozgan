@@ -13,26 +13,19 @@
 - Interested in my design research / publications / works : visit my [personal website](https://sibelozgan.com)
 
 ### Skills
-
 **Programming Languages**
-
 Python, Processing
-
 **Data Science**
-
 Machine Learning,
 Exploratory Data Analysis, Statistical
 Analysis, Data Visualization,
 Deep Learning, NLP
 SQL, Git , Web Scraping
-
 **Creative Design Tools**
-
 Adobe Photoshop, Adobe Illustrator,
 Adobe InDesign , Autocad, Rhino 3D -
 Grasshopper, Revit
-
-Design Research. 
+Design Research 
 
 **-------------------------------------------------------------------------------------------------------------------------------**
 
