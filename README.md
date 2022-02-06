@@ -36,8 +36,7 @@ Design Research.
 
 **Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:**
 
-<img align="left" img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="480" height="270"/>
-<img align="right" img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas3.jpeg" width="480" height="270"/>
+<img align="left" img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas3.jpeg" width="480" height="300"/>
 
 <!--
 **sibelyozgan/sibelyozgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,4 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="450" height="270">
+<img align="left" img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="480" height="270"/>
 -->
