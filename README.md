@@ -29,9 +29,6 @@ Adobe Photoshop, Adobe Illustrator,
 Adobe InDesign , Autocad, Rhino 3D -
 Grasshopper, Revit
 Design Research 
-
-**-------------------------------------------------------------------------------------------------------------------------------**
-
 <!--
 **sibelyozgan/sibelyozgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,6 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**-------------------------------------------------------------------------------------------------------------------------------**
 <img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="450" height="270">
 <img align="left" img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="480" height="270"/>
 **Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:**
