@@ -1,4 +1,4 @@
-<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/gifsib3.gif" width="screen" height="200">
+<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/gifsib5.gif" width="screen" height="200">
 
 ## Hi 👋, I’m Sibel
 ### A passionate data scientist and computational designer</h3>
