@@ -34,8 +34,8 @@ Grasshopper, Revit
 
 Design Research. 
 
-** Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo: **
-<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="400" height="200">
+**Fun fact: My parents are archeology professors, so I grew up on excavation sites. Here is a photo:**
+<img src="https://github.com/sibelyozgan/sibelyozgan/blob/main/tas5.jpeg" width="520" height="270">
 
 <!--
 **sibelyozgan/sibelyozgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
