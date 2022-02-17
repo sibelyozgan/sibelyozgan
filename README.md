@@ -3,8 +3,8 @@
 ## Hi 👋, I’m Sibel
 ### A passionate data scientist and computational designer</h3>
 
-- ➕ I'm currently working on the development of a predictive model for Social Media Engagement leveraging Natural Language Processing(NLP) techniques for Feature Engineering
-- ➕ I have almost 10 years experience in academic research.
+➕ I'm currently working on the development of a predictive model for Social Media Engagement leveraging Natural Language Processing(NLP) techniques for Feature Engineering
+➕ I have almost 10 years experience in academic research.
 - ➕ My M.Sc. and PhD are in computational design, which affects my logic and approach to data science projects, where I adopt the design-thinking method. I possess the data scientist as well as designer toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. I am a creative data story teller and a continuous learner.
 - ➕ I’m looking to collaborate on **projects with other data enthusiasts**
 - ➕ Reach me **sozgan@gmail.com**
